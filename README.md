@@ -37,9 +37,9 @@ The dashboard is structured into four main pages, each tailored to a specific an
 *   **Custom KPIs:** Wrote **DAX measures** to calculate non-trivial metrics, such as the `Passenger Impact Score` (a weighted average of delay time and passenger numbers) and month-over-month performance changes.
 
 ## 📂 How to View
-PDF Report: View the static full report in 2024 from the doc/.
-Power BI File: Download the .pbix file from the src/ folder to view the interactivity (requires Power BI Desktop).
-Microsoft Fabric Link: https://app.fabric.microsoft.com/groups/me/reports/19a5671b-511b-4ae3-b8bc-95dc6262a716?ctid=e5d15069-41a2-48be-a3f3-d7f52db16425&pbi_source=linkShare&bookmarkGuid=f1994d6a-7ca4-4ca3-a578-31f3f9a1aab3
+*   PDF Report: View the static full report in 2024 from the doc/.
+*   Power BI File: Download the .pbix file from the src/ folder to view the interactivity (requires Power BI Desktop).
+*   Microsoft Fabric Link: https://app.fabric.microsoft.com/groups/me/reports/19a5671b-511b-4ae3-b8bc-95dc6262a716?ctid=e5d15069-41a2-48be-a3f3-d7f52db16425&pbi_source=linkShare&bookmarkGuid=f1994d6a-7ca4-4ca3-a578-31f3f9a1aab3
 
 ---
 Author: LE Minh Quan
